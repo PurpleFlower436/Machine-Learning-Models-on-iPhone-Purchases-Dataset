@@ -22,3 +22,4 @@ In this project, I used Scikit-learn to build an SVM classifier that predicts wh
 ## What I implemented
 - Built an SVM classifier with Scikit-learn to predict iPhone purchases
 - Implemented N fold cross-validation and grid search over C and tolerance values to select the best model configuration
+-  Performed an 80/20 train–test split and scaled features using `StandardScaler` with `fit_transform` on the training set
